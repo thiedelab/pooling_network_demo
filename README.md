@@ -1,1 +1,1 @@
-Simple code demo for how to pool data from variable length sequences... use at your own risk.
+Simple code demo for how to pool data from variable length sequences... not tested, use at your own risk.
